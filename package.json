@@ -2,7 +2,7 @@
 	"name": "smoketest-check-web",
 	"displayName": "smoketest-check-web",
 	"description": "A test extension used for smoke testing VS Code Web Extensions UI",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "jeanp413",
 	"repository": "https://github.com/jeanp413/smoketest-check-web",
 	"license": "MIT",
@@ -13,6 +13,7 @@
 		"Other"
 	],
 	"extensionKind": [
+		"ui",
 		"web"
 	],
 	"activationEvents": [
