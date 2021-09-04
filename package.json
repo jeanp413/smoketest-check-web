@@ -11,6 +11,9 @@
 	"categories": [
 		"Other"
 	],
+	"extensionKind": [
+		"web"
+	],
 	"activationEvents": [
 		"onCommand:smoketest-check-web.smoketestCheckWeb"
 	],
