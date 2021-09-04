@@ -5,6 +5,7 @@
 	"version": "0.0.1",
 	"publisher": "jeanp413",
 	"repository": "https://github.com/jeanp413/smoketest-check-web",
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.59.0"
 	},

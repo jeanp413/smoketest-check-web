@@ -1,4 +1,3 @@
-// imports mocha for the browser, defining the `mocha` global.
 require('mocha/mocha');
 
 export function run(): Promise<void> {
